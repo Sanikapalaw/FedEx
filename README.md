@@ -75,7 +75,7 @@ The project follows a structured EDA approach:
 
 ## 🔗 GitHub Link
 
-*Add your GitHub project link here*
+*https://github.com/Sanikapalaw/FedEx*
 """
 
 with open("README.md", "w") as f:
